@@ -1,6 +1,4 @@
 # PRODIGY_FS_01
-🔗Live Website Link:http://127.0.0.1:5501/index.html#
-
 
 🔐 Secure User Authentication
 Welcome to the Secure User Authentication repository! This project demonstrates how to implement a secure user authentication system using just HTML and CSS.
