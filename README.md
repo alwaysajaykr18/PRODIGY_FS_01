@@ -17,15 +17,11 @@ Stylish UI: Clean and modern design to enhance user experience.
 CSS Animations: Smooth transitions and animations to provide visual feedback.
 🎨 Screenshots
 
-![login page](https://github.com/alwaysajaykr18/PRODIGY_FS_01/assets/172900370/61a3c26e-02ac-4411-984a-a1fc1f1d0835)
 
 
 
 
-
-![login page](https://github.com/alwaysajaykr18/PRODIGY_FS_01/assets/172900370/4a8ae40c-64d5-4b17-80d9-ec371ff45723)
-
-
+![login page](https://github.com/alwaysajaykr18/PRODIGY_FS_01/assets/172900370/7ffaecd6-440f-4b80-8f54-37721451babf)
 
 
 🛠️ Installation
@@ -98,7 +94,7 @@ Feel free to reach out if you have any questions or suggestions:
 
 
 
-Email: ajaykumarnayak2531@gmail.com
+Email: ajaynayak2531@gmail.com
 Twitter: @alwaysajaykr18
 GitHub: alwaysajaykr18
 Thank you for visiting the Secure User Authentication project! We hope you find it useful and informative. Happy coding! 🚀
